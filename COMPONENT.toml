@@ -3,7 +3,7 @@ name = "SigmaOS-zen-browser"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "zen-browser component"
+description = "Zen Browser compatibility layer for SigmaOS"
 upstream = []
 
 [contract]

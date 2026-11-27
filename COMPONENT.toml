@@ -1,0 +1,6 @@
+[component]
+name = "SigmaOS-zen-browser"
+description = "Zen Browser workspace, theme, and profile integration in Rust"
+category = "browser"
+license = "GPL-3.0-or-later"
+language = "rust"
